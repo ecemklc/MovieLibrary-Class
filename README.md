@@ -1,5 +1,8 @@
 # Movie Library
 
+![classMovie](https://github.com/user-attachments/assets/e50884f9-21f9-45e6-88e0-e6e90d2f696c)
+
+
 A simple movie library application built with HTML, Bootstrap, and JavaScript to manage and display a collection of movies. This project uses JavaScript classes to encapsulate functionality and manage the application state.
 
 ## Table of Contents
